@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Tirgul {
-
+// stam
     public static void main(String[] args) {
 
         int x=0;
